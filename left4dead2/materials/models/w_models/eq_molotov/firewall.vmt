@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+    $basetexture "models/w_models/eq_molotov/firewall"
+    $phong 1
+    $basemapluminancephongmask 1
+    $phongfresnelranges "[1 4 30]"
+    $halflambert 1
+    $phongexponent 10
+    $alphatest 1
+    $nocull 1
+}
+
+
+
+
+
