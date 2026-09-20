@@ -1,9 +1,0 @@
-patch
-{
-
-include "materials/models\v_models\Weapons\eq_adrenaline/adrenaline_shot.vmt"
-insert
-{
-$baseTexture "models\v_models\Weapons\eq_adrenaline/stabiliser_Shot"
-}
-}
